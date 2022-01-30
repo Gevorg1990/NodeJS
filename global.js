@@ -26,3 +26,5 @@ setTimeout(()=>{
     }
 
 },6000)
+
+console.log('hello Git')
